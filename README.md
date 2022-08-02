@@ -11,5 +11,8 @@
 | DELETE | /replies/{rno} | 댓글 번호 | 댓글 삭제 | 삭제 결과 문자열 |
 | PUT | /replies/{rno} | 댓글번호 + 수정할내용 | 댓글 수정 | 수정 결과 문자열 |
 
+
+
+
 ### [엔티티관계도]
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8473e4df-c20e-44d0-8991-9fbfc5f8af44/Untitled.png)
+https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8473e4df-c20e-44d0-8991-9fbfc5f8af44%2FUntitled.png?table=block&id=f80615d1-a100-45cf-9c34-6a0207bdd34b&spaceId=aafcde50-e80f-48fb-92b5-14300c82804d&width=1010&userId=a49e65f5-5a01-4be6-acfb-0a85124b39dc&cache=v2
