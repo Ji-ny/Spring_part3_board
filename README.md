@@ -95,8 +95,9 @@
 
 ![image](https://user-images.githubusercontent.com/96537605/182356756-887fe2a1-a3ba-49a8-bf07-a1e9955f7905.png)
 
-
+--
 2. 수정할 것을 입력하고 Modify 버튼을 누르면, 댓글이 수정된다.
+--
 ![image](https://user-images.githubusercontent.com/96537605/182356819-0a5a8cc6-6e60-45bf-a90d-889a4e92c892.png)
 
 
