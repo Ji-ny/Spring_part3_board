@@ -15,4 +15,5 @@
 
 
 ### [엔티티관계도]
-https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8473e4df-c20e-44d0-8991-9fbfc5f8af44%2FUntitled.png?table=block&id=f80615d1-a100-45cf-9c34-6a0207bdd34b&spaceId=aafcde50-e80f-48fb-92b5-14300c82804d&width=1010&userId=a49e65f5-5a01-4be6-acfb-0a85124b39dc&cache=v2
+
+![image](https://user-images.githubusercontent.com/96537605/182355268-dd634309-de74-46b7-9c1e-f49f32fecf55.png)
